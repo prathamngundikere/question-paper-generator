@@ -50,7 +50,11 @@ python-docx==0.8.11
 
 ### Running the application
 ```bash
-python question_paper_generator.py
+python qgen.py
+```
+#### On Linux
+```bash
+python3 qgen.py
 ```
 
 ### Workflow
